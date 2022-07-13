@@ -1,0 +1,46 @@
+.staking_card {
+    margin: auto;
+    width: fit-content;
+    border: 1px solid #0075ff;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #0077ff2f;
+}
+
+.duration {
+    display: flex;
+}
+
+.percent {
+    display: flex;
+}
+.amount_box {
+    display: flex;
+}
+
+.amount_text {
+    display: flex;
+    font-size: 12px;
+}
+
+.range_slider {
+    width: 90%;
+}
+
+.rewards {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.reward {
+    background-color: #0075ff;
+    border: 1px solid #0075ff;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.stake_btn button {
+    width: 100%;
+    margin-top: 20px;
+}
